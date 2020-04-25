@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Animated Covid 19 Map
+ThreeJS app that displays an animated covid 19 map uses live data from
+https://github.com/CSSEGISandData/COVID-19
+
 ## Available Scripts
 
 In the project directory, you can run:
